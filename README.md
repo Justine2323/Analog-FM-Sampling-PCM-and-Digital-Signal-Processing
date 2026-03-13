@@ -18,9 +18,13 @@ This section introduces the fundamental concepts of analog modulation and demodu
 ### 1.0 Block Diagram 
 <details>
   <summary> Press the button </summary>
-  
+
+
   <p align="center">
-  
+
+  </p>
+
+</details>
 
 [Go back to the top](#top)
 
