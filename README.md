@@ -21,7 +21,7 @@ This section introduces the fundamental concepts of analog modulation and demodu
 
 
   <p align="center">
-
+  <img width="765" height="498" alt="Image" src="https://github.com/user-attachments/assets/8d1565d4-9e15-48b9-9493-1a36f609969d" />
   </p>
 
 </details>
