@@ -6,10 +6,10 @@ Purpose: This repository explores Analog FM, signal sampling, Pulse Code Modulat
 </p>
 
 ## Table of Contents
-- [Part 1: Analog Modulation & Demodulation](https://github.com/Justine2323/Analog-FM-Sampling-PCM-and-Digital-Signal-Processing/edit/main/README.md#part-1-analog-modulation--demodulation)
-- [Part 2: Sampling and Reconstruction](https://github.com/Justine2323/Analog-FM-Sampling-PCM-and-Digital-Signal-Processing/edit/main/README.md#part-2-sampling-and-reconstruction)
-- [Part 3: PCM Encoding & Decoding](https://github.com/Justine2323/Analog-FM-Sampling-PCM-and-Digital-Signal-Processing/edit/main/README.md#part-3-pcm-encoding--decoding)
-- [Part 4: Digital Signal Processing (DSP)](https://github.com/Justine2323/Analog-FM-Sampling-PCM-and-Digital-Signal-Processing/edit/main/README.md#part-3-pcm-encoding--decoding)
+- [Part 1: Analog Modulation & Demodulation](https://github.com/Justine2323/Analog-FM-Sampling-PCM-and-Digital-Signal-Processing/main/README.md#part-1-analog-modulation--demodulation)
+- [Part 2: Sampling and Reconstruction](https://github.com/Justine2323/Analog-FM-Sampling-PCM-and-Digital-Signal-Processing/main/README.md#part-2-sampling-and-reconstruction)
+- [Part 3: PCM Encoding & Decoding](https://github.com/Justine2323/Analog-FM-Sampling-PCM-and-Digital-Signal-Processing/main/README.md#part-3-pcm-encoding--decoding)
+- [Part 4: Digital Signal Processing (DSP)](https://github.com/Justine2323/Analog-FM-Sampling-PCM-and-Digital-Signal-Processing/main/README.md#part-3-pcm-encoding--decoding)
 
 ## Part 1: Analog Modulation & Demodulation
 <p align = "justify">
